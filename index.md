@@ -4,5 +4,7 @@ In this movie there is a dog from it's early years to the end. It is very funny,
 * likes to make life a rollercoaster
 * very active dog
 * really lovely
+As a dog doesn't speak the favourite quote of the family is
+> Oh Marley
 
 <img src="https://m.media-amazon.com/images/M/MV5BMTI3MDUwMjIwOV5BMl5BanBnXkFtZTcwMTI5MjYwMg@@._V1_UY99_CR25,0,99,99_AL_.jpg"/>
